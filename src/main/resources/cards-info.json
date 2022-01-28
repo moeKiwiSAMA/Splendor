@@ -1,0 +1,904 @@
+{
+  "devCard": [
+    {
+      "devLevel": "low",
+      "devToken": "black",
+      "prestige": -1,
+      "white": 0,
+      "blue": 1,
+      "green": 0,
+      "red": 0,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "black",
+      "prestige": -1,
+      "white": 0,
+      "blue": 0,
+      "green": 0,
+      "red": 0,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "black",
+      "prestige": -1,
+      "white": -1,
+      "blue": -1,
+      "green": 1,
+      "red": 0,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "black",
+      "prestige": -1,
+      "white": 1,
+      "blue": -1,
+      "green": 1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "black",
+      "prestige": -1,
+      "white": 1,
+      "blue": 1,
+      "green": -1,
+      "red": 0,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "black",
+      "prestige": -1,
+      "white": -1,
+      "blue": -1,
+      "green": 0,
+      "red": 2,
+      "black": 0
+    },
+    {
+      "devLevel": "low",
+      "devToken": "black",
+      "prestige": -1,
+      "white": -1,
+      "blue": -1,
+      "green": 2,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "black",
+      "prestige": 0,
+      "white": -1,
+      "blue": 3,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "red",
+      "prestige": -1,
+      "white": 1,
+      "blue": 0,
+      "green": 0,
+      "red": -1,
+      "black": 0
+    },
+    {
+      "devLevel": "low",
+      "devToken": "red",
+      "prestige": -1,
+      "white": 0,
+      "blue": 0,
+      "green": 0,
+      "red": -1,
+      "black": 0
+    },
+    {
+      "devLevel": "low",
+      "devToken": "red",
+      "prestige": -1,
+      "white": -1,
+      "blue": 1,
+      "green": 0,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "red",
+      "prestige": -1,
+      "white": 1,
+      "blue": -1,
+      "green": -1,
+      "red": 1,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "red",
+      "prestige": -1,
+      "white": 1,
+      "blue": -1,
+      "green": 0,
+      "red": -1,
+      "black": 1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "red",
+      "prestige": -1,
+      "white": 0,
+      "blue": -1,
+      "green": -1,
+      "red": 0,
+      "black": 2
+    },
+    {
+      "devLevel": "low",
+      "devToken": "red",
+      "prestige": -1,
+      "white": 2,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "red",
+      "prestige": 0,
+      "white": 3,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "blue",
+      "prestige": -1,
+      "white": 0,
+      "blue": -1,
+      "green": 0,
+      "red": 1,
+      "black": 0
+    },
+    {
+      "devLevel": "low",
+      "devToken": "blue",
+      "prestige": -1,
+      "white": 0,
+      "blue": -1,
+      "green": 0,
+      "red": 0,
+      "black": 0
+    },
+    {
+      "devLevel": "low",
+      "devToken": "blue",
+      "prestige": -1,
+      "white": 0,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": 1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "blue",
+      "prestige": -1,
+      "white": -1,
+      "blue": -1,
+      "green": 1,
+      "red": -1,
+      "black": 1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "blue",
+      "prestige": -1,
+      "white": 0,
+      "blue": 1,
+      "green": -1,
+      "red": 1,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "blue",
+      "prestige": -1,
+      "white": -1,
+      "blue": 0,
+      "green": 2,
+      "red": 0,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "blue",
+      "prestige": -1,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": 2
+    },
+    {
+      "devLevel": "low",
+      "devToken": "blue",
+      "prestige": 0,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": 3,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "green",
+      "prestige": -1,
+      "white": 0,
+      "blue": 0,
+      "green": 0,
+      "red": -1,
+      "black": 0
+    },
+    {
+      "devLevel": "low",
+      "devToken": "green",
+      "prestige": -1,
+      "white": 0,
+      "blue": 0,
+      "green": 0,
+      "red": -1,
+      "black": 1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "green",
+      "prestige": -1,
+      "white": 1,
+      "blue": 0,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "green",
+      "prestige": -1,
+      "white": -1,
+      "blue": 1,
+      "green": -1,
+      "red": 1,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "green",
+      "prestige": -1,
+      "white": -1,
+      "blue": 0,
+      "green": -1,
+      "red": 1,
+      "black": 1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "green",
+      "prestige": -1,
+      "white": 0,
+      "blue": 2,
+      "green": 0,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "green",
+      "prestige": -1,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": 2,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "green",
+      "prestige": 0,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": 3
+    },
+    {
+      "devLevel": "low",
+      "devToken": "white",
+      "prestige": -1,
+      "white": -1,
+      "blue": 0,
+      "green": 1,
+      "red": 0,
+      "black": 0
+    },
+    {
+      "devLevel": "low",
+      "devToken": "white",
+      "prestige": -1,
+      "white": -1,
+      "blue": 0,
+      "green": 0,
+      "red": 0,
+      "black": 0
+    },
+    {
+      "devLevel": "low",
+      "devToken": "white",
+      "prestige": -1,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": 1,
+      "black": 0
+    },
+    {
+      "devLevel": "low",
+      "devToken": "white",
+      "prestige": -1,
+      "white": -1,
+      "blue": 1,
+      "green": -1,
+      "red": -1,
+      "black": 1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "white",
+      "prestige": -1,
+      "white": -1,
+      "blue": 1,
+      "green": 1,
+      "red": -1,
+      "black": 0
+    },
+    {
+      "devLevel": "low",
+      "devToken": "white",
+      "prestige": -1,
+      "white": 2,
+      "blue": 0,
+      "green": -1,
+      "red": -1,
+      "black": 0
+    },
+    {
+      "devLevel": "low",
+      "devToken": "white",
+      "prestige": 0,
+      "white": -1,
+      "blue": 2,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "low",
+      "devToken": "white",
+      "prestige": 0,
+      "white": 3,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "black",
+      "prestige": 2,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": 5
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "black",
+      "prestige": 1,
+      "white": -1,
+      "blue": 0,
+      "green": 3,
+      "red": 1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "black",
+      "prestige": 1,
+      "white": 4,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "black",
+      "prestige": 1,
+      "white": -1,
+      "blue": -1,
+      "green": 4,
+      "red": 2,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "black",
+      "prestige": 0,
+      "white": 2,
+      "blue": -1,
+      "green": 2,
+      "red": -1,
+      "black": 1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "black",
+      "prestige": 0,
+      "white": 2,
+      "blue": 1,
+      "green": 1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "red",
+      "prestige": 2,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": 5,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "red",
+      "prestige": 1,
+      "white": 0,
+      "blue": 3,
+      "green": 1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "red",
+      "prestige": 1,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": 4
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "red",
+      "prestige": 1,
+      "white": 2,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": 4
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "red",
+      "prestige": 0,
+      "white": -1,
+      "blue": 2,
+      "green": -1,
+      "red": 1,
+      "black": 2
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "red",
+      "prestige": 0,
+      "white": 1,
+      "blue": -1,
+      "green": -1,
+      "red": 1,
+      "black": 2
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "blue",
+      "prestige": 2,
+      "white": -1,
+      "blue": 5,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "blue",
+      "prestige": 1,
+      "white": 1,
+      "blue": -1,
+      "green": -1,
+      "red": 0,
+      "black": 3
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "blue",
+      "prestige": 1,
+      "white": -1,
+      "blue": 4,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "blue",
+      "prestige": 1,
+      "white": 4,
+      "blue": 2,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "blue",
+      "prestige": 0,
+      "white": -1,
+      "blue": 1,
+      "green": 2,
+      "red": -1,
+      "black": 2
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "blue",
+      "prestige": 0,
+      "white": -1,
+      "blue": 1,
+      "green": 1,
+      "red": 2,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "green",
+      "prestige": 2,
+      "white": -1,
+      "blue": -1,
+      "green": 5,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "green",
+      "prestige": 1,
+      "white": 3,
+      "blue": 1,
+      "green": -1,
+      "red": -1,
+      "black": 0
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "green",
+      "prestige": 1,
+      "white": -1,
+      "blue": -1,
+      "green": 4,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "green",
+      "prestige": 1,
+      "white": -1,
+      "blue": 4,
+      "green": 2,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "green",
+      "prestige": 0,
+      "white": 2,
+      "blue": -1,
+      "green": 1,
+      "red": 2,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "green",
+      "prestige": 0,
+      "white": 1,
+      "blue": 2,
+      "green": -1,
+      "red": -1,
+      "black": 1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "white",
+      "prestige": 2,
+      "white": 5,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "white",
+      "prestige": 1,
+      "white": -1,
+      "blue": -1,
+      "green": 0,
+      "red": 3,
+      "black": 1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "white",
+      "prestige": 1,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": 4,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "white",
+      "prestige": 1,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": 4,
+      "black": 2
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "white",
+      "prestige": 0,
+      "white": 1,
+      "blue": 2,
+      "green": -1,
+      "red": 2,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "white",
+      "prestige": 0,
+      "white": -1,
+      "blue": -1,
+      "green": 2,
+      "red": 1,
+      "black": 1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "black",
+      "prestige": 4,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": 6,
+      "black": 2
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "black",
+      "prestige": 3,
+      "white": -1,
+      "blue": -1,
+      "green": 2,
+      "red": 5,
+      "black": 2
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "black",
+      "prestige": 3,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": 6,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "black",
+      "prestige": 2,
+      "white": 2,
+      "blue": 2,
+      "green": 4,
+      "red": 2,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "red",
+      "prestige": 4,
+      "white": -1,
+      "blue": -1,
+      "green": 6,
+      "red": 2,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "red",
+      "prestige": 3,
+      "white": -1,
+      "blue": -1,
+      "green": 6,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "red",
+      "prestige": 3,
+      "white": -1,
+      "blue": 2,
+      "green": 5,
+      "red": 2,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "red",
+      "prestige": 2,
+      "white": 2,
+      "blue": 4,
+      "green": 2,
+      "red": -1,
+      "black": 2
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "blue",
+      "prestige": 4,
+      "white": 6,
+      "blue": 2,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "blue",
+      "prestige": 3,
+      "white": 6,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "blue",
+      "prestige": 3,
+      "white": 5,
+      "blue": 2,
+      "green": -1,
+      "red": -1,
+      "black": 2
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "blue",
+      "prestige": 2,
+      "white": 2,
+      "blue": -1,
+      "green": 2,
+      "red": 2,
+      "black": 4
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "green",
+      "prestige": 4,
+      "white": -1,
+      "blue": 6,
+      "green": 2,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "green",
+      "prestige": 3,
+      "white": -1,
+      "blue": 6,
+      "green": -1,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "green",
+      "prestige": 3,
+      "white": 2,
+      "blue": 5,
+      "green": 2,
+      "red": -1,
+      "black": -1
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "green",
+      "prestige": 2,
+      "white": 4,
+      "blue": 2,
+      "green": -1,
+      "red": 2,
+      "black": 2
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "white",
+      "prestige": 4,
+      "white": 2,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": 6
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "white",
+      "prestige": 3,
+      "white": -1,
+      "blue": -1,
+      "green": -1,
+      "red": -1,
+      "black": 6
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "white",
+      "prestige": 3,
+      "white": 2,
+      "blue": -1,
+      "green": -1,
+      "red": 2,
+      "black": 5
+    },
+    {
+      "devLevel": "mid",
+      "devToken": "white",
+      "prestige": 2,
+      "white": -1,
+      "blue": 2,
+      "green": 2,
+      "red": 4,
+      "black": 2
+    }
+  ]
+}

@@ -1,48 +1,32 @@
 package repository
 
-import model.*
+import com.google.gson.Gson
+import logger.Logger
+import model.DevCard
+import model.DevCardList
+import model.Noble
+import kotlin.system.exitProcess
 
 interface CardPack {
     companion object {
         val lowLevel: ArrayList<DevCard>
-            get() =
-                arrayListOf(
-                    DevCard(
-                        1,
-                        Black(),
-                        listOf(Pair(Blue(), 1)),
-                        0
-                    ),
-                    DevCard(
-                        1,
-                        Blue(),
-                        listOf(Pair(Blue(), 2)),
-                        0
-                    ),
-                    DevCard(
-                        1,
-                        Green(),
-                        listOf(Pair(Blue(), 3)),
-                        0
-                    ),
-                    DevCard(
-                        1,
-                        White(),
-                        listOf(Pair(Blue(), 1), Pair(Black(), 1)),
-                        0
-                    ),
-                    DevCard(
-                        1,
-                        White(),
-                        listOf(Pair(Blue(), 1), Pair(Black(), 1)),
-                        0
-                    )
-                )
+            get() = ArrayList(CardPackReader.devCardPack.filter { it.devLevel == "low" })
         val midLevel: ArrayList<DevCard>
-            get() = arrayListOf()
+            get() = ArrayList(CardPackReader.devCardPack.filter { it.devLevel == "mid" })
         val highLevel: ArrayList<DevCard>
-            get() = arrayListOf()
+            get() = ArrayList(CardPackReader.devCardPack.filter { it.devLevel == "high" })
         val Noble: ArrayList<Noble>
             get() = arrayListOf()
+    }
+}
+
+object CardPackReader {
+    private val devCardPackString = this::class.java.classLoader.getResource("cards-info.json").readText()
+    val devCardPack: List<DevCard> = try {
+        Gson().fromJson(devCardPackString, DevCardList::class.java).devCard
+                as kotlin.collections.ArrayList<model.DevCard>
+    } catch (e: Exception) {
+        Logger.info("Cannot read devCardsFile.")
+        exitProcess(1)
     }
 }

@@ -11,9 +11,13 @@ repositories {
     mavenCentral()
 }
 
+val vertxVersion = "4.2.4"
 dependencies {
     // https://mvnrepository.com/artifact/com.google.code.gson/gson
+    implementation("io.vertx:vertx-core:$vertxVersion")
+    implementation("io.vertx:vertx-web:$vertxVersion")
     implementation("com.google.code.gson:gson:2.7")
+    implementation("redis.clients:jedis:4.0.1")
     testImplementation(kotlin("test"))
 }
 
@@ -21,6 +25,6 @@ tasks.test {
     useJUnit()
 }
 
-tasks.withType<KotlinCompile>() {
+tasks.withType<KotlinCompile> {
     kotlinOptions.jvmTarget = "1.8"
 }

@@ -1,8 +1,17 @@
 package model
 
+data class DevCardList(
+    val devCard: List<DevCard>
+)
+
 data class DevCard(
-    val level: Int,
-    val bounce: Token,
-    val requiredToken: List<Pair<Token, Int>>,
-    val prestige: Int
+    val black: Int,
+
+    val blue: Int,
+    val devLevel: String,
+    val devToken: String,
+    val green: Int,
+    val prestige: Int,
+    val red: Int,
+    val white: Int
 )
